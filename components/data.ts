@@ -149,6 +149,13 @@ export const data = [
         githubRepoUrl:"https://github.com/Yash981/full-stack-twitter-clone.git",
         url:"https://full-stack-twitter-clone-tawny.vercel.app/",
         projectDescription:"A full-stack Twitter clone featuring essential features such as tweeting, following,bookmarking and liking posts. This clone provides a familiar Twitter-like experience for users, allowing them to share thoughts and engage with others in real-time."
+    },{
+        id:19,
+        name:"Task-Board App",
+        photo:"/Task-Board.png",
+        githubRepoUrl:"https://github.com/Yash981/My-Task-Board.git",
+        url:"https://my-task-boardd.vercel.app/",
+        projectDescription:"A task management app that allows users to create, edit, and delete tasks. This app provides a seamless and intuitive task management experience for users. "
     }
     
 ]
